@@ -1,0 +1,18 @@
+.logo-img {
+    width: 45px;
+    height: 45px;
+    /* Background hissəsini silirik ki, loqo şəffaf görünsün */
+    background: transparent; 
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.logo-img img {
+    width: 100%;
+    height: 100%;
+    /* 'cover' yerinə 'contain' istifadə etmək daha yaxşıdır ki, loqo kəsilməsin */
+    object-fit: contain; 
+}
