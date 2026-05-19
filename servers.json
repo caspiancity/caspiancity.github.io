@@ -1,11 +1,29 @@
-{
-  "servers": [
+[
     {
-      "name": "BAKU",
-      "ip": "188.127.241.74",
-      "port": "3353",
-      "online": 0,
-      "maxplayers": 100
+        "online": "0",
+        "maxonline": "1000",
+        "color": "FF0000",
+        "x2": "true",
+        "name": "APACHE BAKU",
+        "firstname": "APACHE RP",
+        "secondname": "",
+        "url": "samara.blackrussia.online",
+        "ip": "188.127.241.74",
+        "port": "4246"
+
+    },
+    {
+        "online": "0",
+        "maxonline": "1000",
+        "color": "FFFFFF",
+        "x2": "true",
+        "key": "1424",
+        "name": "BAKU",
+        "firstname": "BAKU",
+        "secondname": "",
+        "url": "volgograd.blackrussia.online",
+        "ip": "",
+        "port": "1397"
+
     }
-  ]
-}
+]
