@@ -1,9 +1,11 @@
 {
   "servers": [
     {
-      "name": "Caspian RolePlay",
-      "ip": "188.127.241.74", 
-      "port": "4246"
+      "name": "BAKU",
+      "ip": "188.127.241.74",
+      "port": 4246,
+      "online": 0,
+      "maxplayers": 100
     }
   ]
 }
